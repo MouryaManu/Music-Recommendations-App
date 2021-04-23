@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Flamenco:wght@300&display=swap");
+.App {
+  font-family: "Flamenco", cursive;
+  text-align: center;
+}
+hr {
+  margin: 2rem 0rem;
+}
